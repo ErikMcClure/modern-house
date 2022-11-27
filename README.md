@@ -20,3 +20,4 @@ This is a list of features, architectural guidelines, construction techniques, a
   - Doors should either be low enough to have a threshold or have a rubber sweep to minimize noise
 - All rooms should have sufficient lights in the ceiling to illuminate the entire room evenly, attached to a light switch
 - All windows should have screens
+- All bedroom windows should have rolling shutters that actually block all light.
