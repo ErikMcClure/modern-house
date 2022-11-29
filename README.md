@@ -6,6 +6,9 @@ This is a list of features, architectural guidelines, construction techniques, a
   - Care should be taken when constructing hallways that further constrict movement past the width of the double-doors
 - Absolutely no room with a toilet or sink should *ever* have a carpet.
   - Carpet should be avoided in general, but is acceptable in hallways or bedrooms.
+- Showers/baths should have separate flow control and temperature valves, and temperature changes should be reasonably quick.
+- Showers/baths should have dedicated soap mounts.
+- Occupants should have the option to install a instant hot water taps.
 - All windows should be double-pane laminated glass without any "vents" that would compromise noise-abatement.
 - All caulking must be done BEFORE painting.
 - All interior areas of the house, minus the garage, should have at least a crawlspace underneath.
