@@ -32,3 +32,4 @@ This is a list of features, architectural guidelines, construction techniques, a
 - All cabinets must have soft-close hinges
   - Any corner cabinets in the kitchen or anywhere else must have some kind of rotating access mechanism.
 - All wheels, pivots, rotating towel racks, closet doors, etc. must be quiet or nearly silent. Hinges should be well lubricated.
+- Hot water recirculation system to reduce time taken for hot water to flow.
